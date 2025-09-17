@@ -13,7 +13,7 @@ Il démontre des compétences en :
 - **BI (Power BI)** : création d’un tableau de bord interactif *(à venir)*.
 
 ---
-
+```
 ## 📂 Structure du projet
 superstore-sql-analysis/
 │── README.md # Documentation du projet
@@ -21,7 +21,7 @@ superstore-sql-analysis/
 │── dataset/ # Fichier CSV (optionnel, si licence autorise)
 │── plsql/ # Scripts PL/SQL (à venir)
 │── dashboard/ # Captures d’écran Power BI (à venir )
-
+```
 ---
 
 ## 🏗️ Modélisation de la base
@@ -88,5 +88,7 @@ Toutes les requêtes sont disponibles dans superstore_sales.sql.
 
 ## 👨‍💻 Auteur
 👤 Taha Rostoume
+
 🎯 SQL Developer junior | PL/SQL Developer junior | Data Analyst Junior
+
 🔗 LinkedIn : https://www.linkedin.com/in/taha-rostoume
